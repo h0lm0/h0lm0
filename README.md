@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://www.pwc.com/mt/en/services/cyber-security/cyber-attack-.gif"  />
+![](cyber-attack-.gif)
 
 ###
 
