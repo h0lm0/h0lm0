@@ -9,7 +9,7 @@
 
 ###
 
-![](cyber-attack-.gif)
+<img align="right" height="150" src="cyber-attack-.gif"  />
 
 ###
 
