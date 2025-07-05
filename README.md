@@ -8,10 +8,6 @@
 ###
 <div align="center">
   <img  height="100" src="cyber-attack-.gif"  />
-  <br>
-  <img  height="15" src="image.png"  /> Cybersecurity enthusiast & student <img  height="15" src="image.png"  />
-  <br>
-  <img  height="13" src="image-1.png"  /> Learning & practicing DevSecOps methodology  <img  height="13" src="image-1.png"  />
 </div>
 
 ###
