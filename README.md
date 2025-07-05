@@ -17,7 +17,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="47" height="35" alt="tryhackme logo"  />
   </a>
   <a href="https://app.hackthebox.com/profile/2282357" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="47" height="35" alt="hacktebox logo"  />
+    <img src="https://avatars.githubusercontent.com/u/31746234?s=280&v=4" width="47" height="35" alt="hacktebox logo"  />
   </a>
 </div>
 
