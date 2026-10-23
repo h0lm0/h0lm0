@@ -4,7 +4,7 @@
 
 <h2>$(whoami)</h2>
 
-  <img  height="15" src="image.png"  /> Cybersecurity enthusiast & student <img  height="15" src="image.png"  />
+  <img  height="15" src="image.png"  /> Cybersecurity enthusiast <img  height="15" src="image.png"  />
   <br>
   <img  height="13" src="image-1.png"  /> Learning & practicing DevSecOps methodology  <img  height="13" src="image-1.png"  />
 
